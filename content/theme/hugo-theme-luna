@@ -1,0 +1,29 @@
+---
+title: "Hugo Theme Luna"
+github: https://github.com/Ice-Hazymoon/hugo-theme-luna
+demo: https://hugo-theme-luna.imiku.me/
+author: Ice-Hazymoon
+date: 2022-04-29
+ssg:
+  - Hugo
+cms:
+  - No CMS
+css:
+  - Tailwindcss 
+description: A simple, performance-first, SEO-friendly Hugo theme
+---
+
+## Features
+
+Custom Themes
+Dark mode
+Responsive images
+Article encryption
+Multilingual
+Google Translate
+PWA
+Pjax
+Lazy load images
+<noscript>
+Table of contents
+Local search
